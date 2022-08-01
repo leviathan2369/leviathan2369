@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000"  src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif">
+<img align="center" alt="coding" width="800"  src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif">
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Web Developpement from Morocco 🇲🇦</h3>
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
